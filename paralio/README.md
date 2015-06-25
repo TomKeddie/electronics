@@ -1,4 +1,7 @@
-V1.0 Issues list
+# Parallella IO motherboard
+
+## Issues list
+###V1.0
 
 - Random large vias
 - Buttons on same i/o as lcd
