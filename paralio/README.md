@@ -20,8 +20,8 @@
 | | | F16 | GPIO5_P | A5 | LCD_D5 |
 | | | F17 | GPIO6_N | D6 | LED 6 |
 | | | F19 | GPIO6_P | D7 | LED 7 |
-| | | F18 | GPIO7_N | - | LCD_D6 |
-| | | F20 | GPIO7_P | - | LCD_D7 |
+| | | F18 | GPIO7_N | | LCD_D6 |
+| | | F20 | GPIO7_P | | LCD_D7 |
 | | | F23 | GPIO8_N | | |
 | | | F25 | GPIO8_P | | |
 | | | F24 | GPIO9_N | | |
@@ -54,14 +54,14 @@
 | | | F19 | GPIO6_P | D7 | - |
 | | | F18 | GPIO7_N | - | LCD_D6 |
 | | | F20 | GPIO7_P | - | LCD_D7 |
-| | | F23 | GPIO8_N | D11 | |
+| | | F23 | GPIO8_N | D11 | - |
 | | | F25 | GPIO8_P | D10 | LCD_E |
-| | | F24 | GPIO9_N | SCL* | |
-| | | F26 | GPIO9_P | SDA* | |
+| | | F24 | GPIO9_N | SCL* | - |
+| | | F26 | GPIO9_P | SDA* | - |
 | | | F27 | GPIO10_N | D9 | LCD_RW |
 | | | F29 | GPIO10_P | D8 | LCD_RS |
-| | | F28 | GPIO11_N | D13 | |
-| | | F30 | GPIO11_P | D12 | |
+| | | F28 | GPIO11_N | D13 | - |
+| | | F30 | GPIO11_P | D12 | - |
 
 ## Issues list
 
