@@ -4,8 +4,13 @@
 
 ## IO Mapping
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 | Linux GPIO | Zynq Pin | PEC PIN | PEC NAME | Arduino Pin | Local Function |
-| -          | -        | -       | -        | -           |              - |
+| ---------- | -------- | ------- | -------- | ----------- | -------------- |
 |            |          | F3      | GPIO0_N  | D0/RX       | LED0           |
 
 | | | F5 | GPIO0_P | D1/TX | LED1 |
