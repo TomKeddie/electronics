@@ -7,6 +7,7 @@
 | Linux GPIO | Zynq Pin | PEC PIN | PEC NAME | Arduino Pin | Local Function |
 | -          | -        | -       | -        | -           |              - |
 |            |          | F3      | GPIO0_N  | D0/RX       | LED0           |
+
 | | | F5 | GPIO0_P | D1/TX | LED1 |
 | | | F4 | GPIO1_N | A0 | LCD_D0 |
 | | | F6 | GPIO1_P | A1 | LCD_D1 |
