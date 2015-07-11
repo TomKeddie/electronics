@@ -13,7 +13,7 @@
 # Rev 1.0
 ## IO Mapping
 | Linux GPIO | Zynq Pin | Zynq Name | PEC PIN | PEC NAME | Arduino Pin | Local Function |
-| -- | -- | -- | -- | -- | -- |  -- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | | U17 | IO_L9N_T1_DQS_34             | F3 | GPIO0_N | D0/RX | LED0 |
 | | T16 | IO_L9P_T1_DQS_34             | F5 | GPIO0_P | D1/TX | LED1 |
 | | W16 | IO_L18N_T2_34                | F4 | GPIO1_N | A0 | LCD_D0 |
