@@ -17,7 +17,7 @@
 | 0 | U17 | IO_L9N_T1_DQS_34             | F3 | GPIO0_N | D0/RX | - |
 | 2 | T16 | IO_L9P_T1_DQS_34             | F5 | GPIO0_P | D1/TX | -  |
 | 1 | W16 | IO_L18N_T2_34                | F4 | GPIO1_N | A0 | LCD_D0 |
-| 3 | V16 | IO_L18N_T2_34                | F6 | GPIO1_P | A1 | LCD_D1 |
+| 3 | V16 | IO_L18P_T2_34                | F6 | GPIO1_P | A1 | LCD_D1 |
 | 4 | P16 | IO_L24N_T3_34                    | F7 | GPIO2_N | D2 | - |
 | 6 | P15 | IO_L24P_T3_34                    | F9 | GPIO2_P | D3 | - |
 | 5 | U19 | IO_L12P_T1_MRCC_34               | F8 | GPIO3_N | A2 | LCD_D2 |
