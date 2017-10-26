@@ -1,4 +1,4 @@
-This is a pcb to match these Chinese test clips from [Taobao](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.38b5fcacO9Mc7q&id=42343856957&_u=q1sfp74rc058).
+This is a pcb to match these Chinese test clips from [Taobao](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.38b5fcacO9Mc7q&id=42343856957&_u=q1sfp74rc058).  You can now buy this variant from Taobao but the pcb is still useful as a template for custom variants.
 
 You need two pcbs one for the top, one for the bottom.
 
